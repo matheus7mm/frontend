@@ -1,0 +1,5 @@
+{
+    "dart.flutterSdkPath": ".fvm/flutter_sdk",
+    "dart.showTodos": false,
+    "java.configuration.updateBuildConfiguration": "interactive"
+  }
