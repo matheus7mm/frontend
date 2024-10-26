@@ -6,7 +6,7 @@ This is a Flutter project for a car management application with a clean and orga
 
 The project is organized into distinct layers to separate concerns and responsibilities:
 
-1. **Application Layer (`config`)**:  
+1. **Application Layer (`application`)**:  
    This layer deals with configurations like dependency injection (`service_locator.dart`) and navigation (`router.dart`). It sets up and manages essential services that the other layers rely on.
 
 2. **Data Layer (`data`)**:  
